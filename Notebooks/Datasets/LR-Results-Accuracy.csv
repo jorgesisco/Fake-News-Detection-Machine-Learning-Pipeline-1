@@ -1,0 +1,5 @@
+,Dataframe,C,max_iter,penalty,solver,Score
+0,"With Stopwords, and not lemmatized",300,100,l2,newton-cg,94.13
+1,"With Stopwords, and not lemmatized",100,100,l1,liblinear,91.67
+2,Without Stopwords and Lemmatized,300,100,l2,newton-cg,93.72
+3,Without Stopwords and Lemmatized,300,100,l1,liblinear,92.62
